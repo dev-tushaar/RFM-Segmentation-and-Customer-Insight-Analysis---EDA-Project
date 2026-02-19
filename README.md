@@ -1,8 +1,3 @@
-# RFM-Segmentation-and-Customer-Insight-Analysis---EDA-Project
-Here’s a **concise, polished GitHub description under 350 words** 👇
-
----
-
 # 📊 RFM Customer Segmentation & Strategic Marketing Analysis
 
 This project applies **RFM (Recency, Frequency, Monetary) Analysis** to segment customers based on purchasing behavior and generate actionable business insights. The goal is to transform transactional data into strategic intelligence that improves customer retention, marketing efficiency, and revenue growth.
